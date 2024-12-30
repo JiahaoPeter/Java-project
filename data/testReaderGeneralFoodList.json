@@ -1,0 +1,15 @@
+{
+    "list of recommended food": [
+        {
+          "food name": "tahini",
+          "food calories": 595,
+          "food price": 7.99
+        },
+        {
+          "food name": "maple syrup",
+          "food calories": 260,
+          "food price": 12.99
+        }
+    ],
+    "food name": "List of Food"
+}

@@ -1,0 +1,85 @@
+{
+    "list of recommended food": [
+        {
+            "food name": "grain bread",
+            "food calories": 265,
+            "food price": 2
+        },
+        {
+            "food name": "peanut butter",
+            "food calories": 589,
+            "food price": 5.99
+        },
+        {
+            "food name": "almond butter",
+            "food calories": 614,
+            "food price": 9.99
+        },
+        {
+            "food name": "avocado",
+            "food calories": 260,
+            "food price": 2.49
+        },
+        {
+            "food name": "nuts",
+            "food calories": 607,
+            "food price": 13.99
+        },
+        {
+            "food name": "chocolate",
+            "food calories": 546,
+            "food price": 19.99
+        },
+        {
+            "food name": "coconut oil",
+            "food calories": 862,
+            "food price": 8.99
+        },
+        {
+            "food name": "cheese",
+            "food calories": 402,
+            "food price": 11.99
+        },
+        {
+            "food name": "ice cream",
+            "food calories": 345,
+            "food price": 3.99
+        },
+        {
+            "food name": "cashews",
+            "food calories": 553,
+            "food price": 12.49
+        },
+        {
+            "food name": "honey",
+            "food calories": 304,
+            "food price": 9.99
+        },
+        {
+            "food name": "mayonnaise",
+            "food calories": 361,
+            "food price": 5.99
+        },
+        {
+            "food name": "tahini",
+            "food calories": 595,
+            "food price": 7.99
+        },
+        {
+            "food name": "maple syrup",
+            "food calories": 260,
+            "food price": 12.99
+        },
+        {
+            "food name": "a",
+            "food calories": 3,
+            "food price": 2
+        },
+        {
+            "food name": "a",
+            "food calories": 3,
+            "food price": 2
+        }
+    ],
+    "food name": "List of Food"
+}
